@@ -6,7 +6,7 @@ dependencies:
   - pip:
     - vamp>=1.1.0,<2.0.0
     - spleeter>=2.3.0,<3.0.0
-    - madmom>=0.16.1,<0.17.0
+    - madmom>=0.16.1
     - pyfluidsynth>=1.2.5,<2.0.0
     - click>=7.1.2,<8.0.0
     - jsonschema>=3.2.0,<4.0.0
