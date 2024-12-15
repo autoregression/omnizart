@@ -35,7 +35,7 @@ tqdm = "^4.49.0"
 pyfluidsynth = "^1.2.5"
 vamp = "^1.1.0"
 urllib3 = "1.26.4"
-spleeter = "^2.1.0"
+spleeter = { git = "https://github.com/deezer/spleeter.git" }
 mir_eval = "^0.6"
 tensorflow = "2.5.0"
 
