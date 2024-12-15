@@ -60,7 +60,7 @@ install_requires = \
  'pretty_midi>=0.2.9,<0.3.0',
  'pyfluidsynth>=1.2.5,<2.0.0',
  'pyyaml=6.0.2',
- 'spleeter>=2.1.0,<3.0.0',
+ 'git+https://github.com/deezer/spleeter.git',
  'tensorflow==2.5.0',
  'tqdm>=4.49.0,<5.0.0',
  'urllib3==1.26.4',
