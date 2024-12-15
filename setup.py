@@ -54,7 +54,7 @@ install_requires = \
 ['click>=7.1.2,<8.0.0',
  'jsonschema>=3.2.0,<4.0.0',
  'librosa>=0.8.0,<0.9.0',
- 'madmom>=0.16.1',
+ 'git+https://github.com/CPJKU/madmom.git',
  'mir_eval>=0.6,<0.7',
  'pillow>=8.3.2,<9.0.0',
  'pretty_midi>=0.2.9,<0.3.0',
